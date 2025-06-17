@@ -23,6 +23,7 @@
 | [0125-valid-palindrome](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0058-length-of-last-word](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
