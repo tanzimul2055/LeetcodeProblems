@@ -33,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -45,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
