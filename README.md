@@ -5,14 +5,17 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
