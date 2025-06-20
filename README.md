@@ -169,6 +169,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -209,6 +210,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -219,6 +221,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
@@ -229,6 +232,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union Find
