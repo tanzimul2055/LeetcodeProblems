@@ -130,6 +130,7 @@
 | [0012-integer-to-roman](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0198-house-robber) |
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
