@@ -43,6 +43,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0443-string-compression](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## Linked List
 |  |
@@ -196,6 +199,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
