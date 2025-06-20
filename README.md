@@ -137,6 +137,7 @@
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0198-house-robber](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
