@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 ## Simulation
