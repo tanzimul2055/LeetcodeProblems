@@ -61,6 +61,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
