@@ -165,6 +165,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
@@ -233,6 +235,7 @@
 | [0002-add-two-numbers](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
 | ------- |
