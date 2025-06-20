@@ -74,6 +74,7 @@
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0202-happy-number) |
 ## Dynamic Programming
