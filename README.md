@@ -267,6 +267,7 @@
 | [0191-number-of-1-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Simulation
 |  |
 | ------- |
