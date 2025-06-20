@@ -35,6 +35,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@
 | [0148-sort-list](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -83,6 +86,7 @@
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
