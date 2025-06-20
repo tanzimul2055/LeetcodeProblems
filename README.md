@@ -309,4 +309,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
