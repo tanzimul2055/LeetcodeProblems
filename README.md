@@ -171,6 +171,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Memoization
 |  |
 | ------- |
@@ -209,14 +210,17 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -226,6 +230,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Union Find
 |  |
 | ------- |
