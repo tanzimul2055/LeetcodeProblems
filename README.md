@@ -169,6 +169,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
+| [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
