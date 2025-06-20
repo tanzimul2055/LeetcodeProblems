@@ -43,6 +43,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1833-find-the-highest-altitude) |
+| [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [0011-container-with-most-water](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0605-can-place-flowers) |
+| [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## String
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [2636-maximum-subsequence-score](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
