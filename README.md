@@ -19,6 +19,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0016-3sum-closest) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
