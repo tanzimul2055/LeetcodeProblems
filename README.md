@@ -74,6 +74,7 @@
 | [0148-sort-list](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -94,6 +95,7 @@
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [1319-unique-number-of-occurrences](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -110,6 +112,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
+| [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0443-string-compression](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
