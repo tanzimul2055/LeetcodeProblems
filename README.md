@@ -61,6 +61,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0328-odd-even-linked-list) |
 ## Hash Table
@@ -183,6 +184,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
