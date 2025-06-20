@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
@@ -104,6 +105,7 @@
 | [0020-valid-parentheses](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
@@ -147,4 +149,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
