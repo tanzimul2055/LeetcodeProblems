@@ -226,6 +226,7 @@
 | [0226-invert-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0226-invert-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0226-invert-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 | [0226-invert-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
