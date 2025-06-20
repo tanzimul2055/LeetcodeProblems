@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,4 +167,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
