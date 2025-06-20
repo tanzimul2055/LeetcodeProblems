@@ -34,6 +34,7 @@
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -179,6 +180,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
