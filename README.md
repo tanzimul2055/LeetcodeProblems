@@ -31,6 +31,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
