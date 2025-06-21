@@ -37,6 +37,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0605-can-place-flowers](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -253,6 +254,7 @@
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0695-max-area-of-island](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
@@ -357,6 +359,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
@@ -365,10 +368,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
