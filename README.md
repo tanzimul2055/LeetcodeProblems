@@ -144,6 +144,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
@@ -191,6 +192,7 @@
 | [0383-ransom-note](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
