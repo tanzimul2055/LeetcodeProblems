@@ -143,6 +143,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -159,6 +160,7 @@
 | [0338-counting-bits](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0747-min-cost-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -265,6 +268,7 @@
 | [0050-powx-n](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
