@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0137-single-number-ii) |
@@ -150,6 +151,7 @@
 | [0055-jump-game](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0322-coin-change) |
