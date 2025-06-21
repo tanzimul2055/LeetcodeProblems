@@ -238,6 +238,7 @@
 | [0020-valid-parentheses](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0735-asteroid-collision) |
+| [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [2470-removing-stars-from-a-string](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
@@ -308,6 +309,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -315,6 +317,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +331,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
@@ -347,6 +351,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0543-diameter-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/0933-increasing-order-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/tanzimul2055/LeetcodeProblems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
